@@ -1,0 +1,19 @@
+# Ignore everything
+
+
+# Allow folders (required for .cs files inside them)
+!*/
+
+# Allow only .cs files
+!*.cs
+
+# Ignore everything else
+*.exe
+*.dll
+*.suo
+*.user
+*.cache
+bin/
+obj/
+.vs/
+*.log
